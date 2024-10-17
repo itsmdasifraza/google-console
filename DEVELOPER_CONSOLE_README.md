@@ -29,6 +29,11 @@
 ![Screenshot 2024-10-17 124416](https://github.com/user-attachments/assets/f99961c5-3de2-4d1d-943e-e56b387073c9)
 
 
+## Diagram
+so basically OAUTH (open auth) is a standard in which client donot shares any credential to the third party application, rather than we will shares the credential to
+open auth providers and  on behalf of that we will acess the third party server. 
+
+After login with google, google will create a access token and refresh token and sent it to the third party server as a verified user.
 
 ## PASSPORT JS
 Passport.js is an authentication middleware for Javascript. It handles various authentication methods like OAuth, JWT, username/password, etc. It provides a way to handle different authentication strategies for (e.g., Google, Facebook, local) and lot more. So you dont have to write your own code to handle different logins for google, or facebook.
