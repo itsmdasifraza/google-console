@@ -27,3 +27,12 @@
 ![Screenshot 2024-10-17 123703](https://github.com/user-attachments/assets/0fd10eb2-c3bb-439b-bd58-602d738389b6)
 
 ![Screenshot 2024-10-17 124416](https://github.com/user-attachments/assets/f99961c5-3de2-4d1d-943e-e56b387073c9)
+
+
+
+## PASSPORT JS
+Passport.js is an authentication middleware for Javascript. It handles various authentication methods like OAuth, JWT, username/password, etc. It provides a way to handle different authentication strategies for (e.g., Google, Facebook, local) and lot more. So you dont have to write your own code to handle different logins for google, or facebook.
+
+
+![Screenshot 2024-10-17 155818](https://github.com/user-attachments/assets/90bb289e-c26f-444a-9656-b4f187429c83)
+
